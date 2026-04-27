@@ -20,7 +20,7 @@ This project answers:
 
 ---
 
-## 🖥️ Live App
+## 🖥️ App Interface
 
 Built and deployed using **Streamlit** — users input patient details and 
 receive an instant prediction from their choice of model.
@@ -61,10 +61,15 @@ allowing direct comparison of predictions.
 ## 📂 Repository Structure
 
 ├── app.py               # Streamlit application
+
 ├── lr1.pkl              # Trained Logistic Regression model
+
 ├── pt1.pkl              # Trained Decision Tree model
+
 ├── rf1.pkl              # Trained Random Forest model
+
 ├── requirements.txt     # Dependencies
+
 └── README.md
 
 ---
