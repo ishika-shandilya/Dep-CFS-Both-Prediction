@@ -61,19 +61,19 @@ allowing direct comparison of predictions.
 ## 📂 Repository Structure
 
 ├── app.py               
-# Streamlit application
+Streamlit application
 
 ├── lr1.pkl              
-# Trained Logistic Regression model
+Trained Logistic Regression model
 
 ├── pt1.pkl              
-# Trained Decision Tree model
+Trained Decision Tree model
 
 ├── rf1.pkl              
-# Trained Random Forest model
+Trained Random Forest model
 
 ├── requirements.txt     
-# Dependencies
+Dependencies
 
 └── README.md
 
